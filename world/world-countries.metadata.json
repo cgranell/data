@@ -1,0 +1,8 @@
+{
+  "locationName": "World",
+  "annotation": "Countries",
+  "neighborhoodNoun": ["name", "ISO3166-1-Alpha-3"],
+
+  "dataUrl": "https://datahub.io/core/geo-countries",
+  "dataTitle": "Natural Earth"
+}
