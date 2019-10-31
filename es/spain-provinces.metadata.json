@@ -1,0 +1,9 @@
+{ 
+  "locationName": "Spain",
+  "annotation": "Administrative provinces",
+  "countryName": "Spain",
+  "fields": ["CCAA", "Provincia", "Texto", "Cod_CCAA", "Codigo", "Geo Point", "Geo Shape"],
+
+  "dataUrl": "https://public.opendatasoft.com/explore/dataset/provincias-espanolas/",
+  "dataTitle": "ESRI"
+}

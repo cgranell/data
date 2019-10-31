@@ -1,0 +1,10 @@
+{
+  "locationName": "Spain",
+  "annotation": "Municipalities",
+  "countryName": "Spain",
+  "fields": ["Geo Point", "Geo Shape", "INSPIREID", "COUNTRY", "NATLEV", "NATLEVNAME", "NATCODE", "INECODE", "NAMEUNIT", "CODNUT1", "CODNUT2",
+  	"CODNUT3", "Province", "Province code", "Comunidad Autónoma", "comunidad_autonoma_code"],	
+
+  "dataUrl": "https://public.opendatasoft.com/explore/dataset/recintos-municipales-espana-spain-municipalities-boundaries",
+  "dataTitle": "Instituto Geográfico Nacional"
+}
